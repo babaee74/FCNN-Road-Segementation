@@ -1,6 +1,6 @@
 # TensorFlow 2 Implementation of Road Segmentation in Radar Images
 
-This repository contains a TensorFlow 2 implementation of the paper titled "A new road extraction method using Sentinel-1 SAR images based on the deep fully convolutional neural network" published in [MDPI] ([[DOI: 10.1080/22797254.2019.1694447](https://doi.org/10.1080/22797254.2019.1694447](https://www.researchgate.net/publication/331603897_Road_Extraction_from_High-Resolution_Remote_Sensing_Imagery_Using_Refined_Deep_Residual_Convolutional_Neural_Network))). The implementation is tailored specifically for our custom dataset, which is available at [https://github.com/babaee74/radar-road-segmenation-dataset](https://github.com/babaee74/radar-road-segmenation-dataset).
+This repository contains a TensorFlow 2 implementation of the paper titled "A new road extraction method using Sentinel-1 SAR images based on the deep fully convolutional neural network" published in [MDPI] ([FCN-UNet]([https://doi.org/10.1080/22797254.2019.1694447](https://www.researchgate.net/publication/331603897_Road_Extraction_from_High-Resolution_Remote_Sensing_Imagery_Using_Refined_Deep_Residual_Convolutional_Neural_Network))). The implementation is tailored specifically for our custom dataset, which is available at [https://github.com/babaee74/radar-road-segmenation-dataset](https://github.com/babaee74/radar-road-segmenation-dataset).
 
 ![alt text](https://github.com/babaee74/FCNN-Road-Segementation/blob/main/images/FCNN.png)
 
