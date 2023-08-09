@@ -16,7 +16,7 @@ Our TensorFlow 2 implementation provides a framework for training and evaluating
 
 To use this implementation, follow these steps:
 
-1. Clone the repository: `Open the given notebook on Google Colab or Your Local System` [https://github.com/babaee74/radar-road-segmenation-dataset](https://github.com/babaee74/radar-road-segmenation-dataset)
+1. Clone the repository: `Open the given notebook on Google Colab or Your Local System` [https://github.com/babaee74/FCNN-Road-Segementation](https://github.com/babaee74/FCNN-Road-Segementation)
 
 ## Citation
 
